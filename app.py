@@ -15,7 +15,7 @@ from google.protobuf.message import DecodeError
 app = Flask(__name__)
 
 # 🔐 SINGLE API KEY
-API_KEY = "SEMYPAID"
+API_KEY = "SEMYTATA"
 
 def load_tokens(server_name):
     try:
